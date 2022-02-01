@@ -1,3 +1,8 @@
+The goal of this READ ME is to give resources on how to use azure functions
+  -Azure functions are front end functions that allow a user to cheaply and quickly without backend servers create an operation such as send data to database or retrieve.
+  -Alot of these operations can be very cheap or free making it pointless to make an app for certain operations
+###############################################################################################################
+
 https://www.youtube.com/playlist?list=PLD-lHCDqiS8aLuipHciNM4MhPuXRqw087
 https://www.udemy.com/course/70532-azure/learn/lecture/24629186#notes
 
